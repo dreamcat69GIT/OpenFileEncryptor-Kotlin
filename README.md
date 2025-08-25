@@ -28,9 +28,9 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="https://github.com/dreamcat69GIT/OpenFileEncryptor-Kotlin/blob/main/screenshot1.png" width="400" alt="Encryption UI">
-  <img src="https://github.com/dreamcat69GIT/OpenFileEncryptor-Kotlin/blob/main/screenshot2.png" width="400" alt="Drecryption UI">
-  <img src="https://github.com/dreamcat69GIT/OpenFileEncryptor-Kotlin/blob/main/screenshot3.png" width="400" alt="Settings UI">
+  <img src="/docs/encryption_window.png" width="400" alt="Encryption UI">
+  <img src="/docs/decryption_window.png" width="400" alt="Drecryption UI">
+  <img src="/docs/settings_window.png" width="400" alt="Settings UI">
   
 </p>
 
