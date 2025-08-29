@@ -12,7 +12,10 @@
 </p>
 
 ---
-
+## 👥 Social media 
+* [My Telegram](t.me/@DreamCat69)
+* [Matrix chat](https://matrix.to/#/#openfilencryptor:matrix.cherret.ru)
+---
 ## 🚀 Features
 
 * 🔐 **Strong encryption & decryption** for your files.
