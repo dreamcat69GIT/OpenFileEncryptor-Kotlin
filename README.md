@@ -13,8 +13,9 @@
 
 ---
 ## 👥 Social media 
-* [My Telegram](https://t.me/DreamCat69)
+* [Telegram chat](https://t.me/OpenFileEncryptor)
 * [Matrix chat](https://matrix.to/#/#openfilencryptor:matrix.cherret.ru)
+  
 ---
 ## 🚀 Features
 
